@@ -29,7 +29,7 @@ This is a code editor built with React.js that allows users to write, edit, and 
 
 1. Clone the repository:
 
-git clone https://github.com/Ashish0o7/code-editor.git
+git clone https://github.com/AKSHAYSBHAT666/CodePair.git
 
 
 2. Install the dependencies:
